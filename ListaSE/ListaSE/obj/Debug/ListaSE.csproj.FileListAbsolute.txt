@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\bin\Debug\ListaSE.exe.config
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\bin\Debug\ListaSE.exe
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\bin\Debug\ListaSE.pdb
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.Form1.resources
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.exe
+C:\Users\Usuario\Desktop\ListaSE\ListaSE\obj\Debug\ListaSE.pdb
